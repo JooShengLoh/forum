@@ -55,3 +55,15 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-gi
 课程与示例帖子图片：Unsplash / images.unsplash.com。
 部分作者照片：Random User / randomuser.me，作为虚构账号展示头像。
 插画头像：DiceBear Lorelei / api.dicebear.com。
+
+## 最新版本包含
+
+- 个人总览：课程进度、待办、课表、旅行与帖子
+- 小应用模板：预览、添加、去重和撤销
+- 小应用备份导入：验证、合并、替换和撤销
+- 按课程章节保存的讨论和多层回复
+- 导航选中状态修复：课堂、小应用、收藏与手机导航
+- 默认浅色主题，保留手动深色切换和中英文界面
+
+本包为当前可运行版本，包含前端完整源码和本地服务器。
+无须 npm install 或构建。GitHub Pages 发布根目录即可。
